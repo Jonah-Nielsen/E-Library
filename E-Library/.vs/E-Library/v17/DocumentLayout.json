@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niels\\source\\repos\\E-Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\usernameforgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\usernameforgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\data\\readbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:data\\readbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\signup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\mainpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\mainpage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\yourbooks.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\yourbooks.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\yourbooks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\yourbooks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\mainpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\mainpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\account.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\shared\\loginlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:shared\\loginlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\pages\\read.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:pages\\read.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:shared\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|c:\\users\\niels\\source\\repos\\e-library\\shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4C0563C6-C9C0-49AF-BCD1-EE36F5D70643}|E-Library.csproj|solutionrelative:shared\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\LoginLayout.razor.css",
+              "RelativeDocumentMoniker": "Shared\\LoginLayout.razor.css",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\LoginLayout.razor.css",
+              "RelativeToolTip": "Shared\\LoginLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-12T20:27:33.753Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadBook.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\ReadBook.cs",
+              "RelativeDocumentMoniker": "Data\\ReadBook.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\ReadBook.cs",
+              "RelativeToolTip": "Data\\ReadBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:38:18.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YourBooks.razor.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\YourBooks.razor.cs",
+              "RelativeDocumentMoniker": "Pages\\YourBooks.razor.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\YourBooks.razor.cs",
+              "RelativeToolTip": "Pages\\YourBooks.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:18:41.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YourBooks.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\YourBooks.razor",
+              "RelativeDocumentMoniker": "Pages\\YourBooks.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\YourBooks.razor",
+              "RelativeToolTip": "Pages\\YourBooks.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T23:13:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.razor.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\MainPage.razor.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.razor.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\MainPage.razor.cs",
+              "RelativeToolTip": "Pages\\MainPage.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:03:07.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\Data.cs",
+              "RelativeDocumentMoniker": "Data\\Data.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\Data.cs",
+              "RelativeToolTip": "Data\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:50:02.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\MainPage.razor",
+              "RelativeDocumentMoniker": "Pages\\MainPage.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\MainPage.razor",
+              "RelativeToolTip": "Pages\\MainPage.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T19:33:25.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T19:34:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginLayout.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\LoginLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\LoginLayout.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\LoginLayout.razor",
+              "RelativeToolTip": "Shared\\LoginLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T20:26:56.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T19:06:58.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:06:39.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePassword.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\ChangePassword.razor",
+              "RelativeDocumentMoniker": "Pages\\ChangePassword.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\ChangePassword.razor",
+              "RelativeToolTip": "Pages\\ChangePassword.razor",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T17:18:08.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPassword.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\ForgotPassword.razor",
+              "RelativeDocumentMoniker": "Pages\\ForgotPassword.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\ForgotPassword.razor",
+              "RelativeToolTip": "Pages\\ForgotPassword.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:18:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\SignUp.razor",
+              "RelativeDocumentMoniker": "Pages\\SignUp.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\SignUp.razor",
+              "RelativeToolTip": "Pages\\SignUp.razor",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAE8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:27:42.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Index.razor.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.razor.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Index.razor.cs",
+              "RelativeToolTip": "Pages\\Index.razor.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA7wDEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T21:04:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsernameForgotPassword.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\UsernameForgotPassword.razor",
+              "RelativeDocumentMoniker": "Pages\\UsernameForgotPassword.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\UsernameForgotPassword.razor",
+              "RelativeToolTip": "Pages\\UsernameForgotPassword.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T19:35:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Account.razor",
+              "RelativeDocumentMoniker": "Pages\\Account.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Account.razor",
+              "RelativeToolTip": "Pages\\Account.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T17:50:11.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Read.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Read.razor",
+              "RelativeDocumentMoniker": "Pages\\Read.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\Read.razor",
+              "RelativeToolTip": "Pages\\Read.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T17:52:39.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T19:03:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\DB.cs",
+              "RelativeDocumentMoniker": "Data\\DB.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\DB.cs",
+              "RelativeToolTip": "Data\\DB.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAIA8wCsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T19:45:42.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:12:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T18:10:00.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T19:01:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T19:03:49.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\niels\\source\\repos\\E-Library\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T17:58:53.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

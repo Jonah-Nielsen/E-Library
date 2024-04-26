@@ -1,0 +1,55 @@
+﻿@page "/"
+@layout LoginLayout
+@inject NavigationManager NavigationManager
+@inject Data.DB db
+@inject Data.User user
+
+<PageTitle>Index</PageTitle>
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<body>
+
+    <div class="LoginWrapper">
+        
+            <h1>Login</h1>
+            <div class="input">
+                <input type="text" placeholder="Username" required @bind="Username" />
+                <i class='bx bx-user'></i>
+            </div>
+            <div class="input">
+                <input type="password" placeholder="Password" required @bind="Password"/>
+                <i class='bx bx-lock'></i>
+            </div>
+            
+            <div>
+                @incorrect
+            </div>
+
+            <div class="forgot">
+                <a href="/UsernameForgotPassword">Forgot Password?</a>
+            </div>
+            <button @onclick="click"><b>Log In</b></button>
+
+        
+
+
+    </div>
+
+
+</body>
+
+<style>
+    
+ body{
+        background-color: #F5DAB3;
+ }
+
+ .btn{
+     background-color:white;
+     justify-content: center;
+     align-items: center;
+     min-width: 220px;
+ }
+
+</style>
+

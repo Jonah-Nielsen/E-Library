@@ -1,0 +1,101 @@
+﻿@page "/SignUp"
+@layout LoginLayout
+@inject NavigationManager NavigationManager
+@inject Data.DB db
+<PageTitle>ChangePassword</PageTitle>
+
+<div class="LoginWrapper">
+   
+        <h1>Create Account</h1>
+
+        <h2>Email</h2>
+        <div class="input">
+        <input type="text" placeholder="Email" required @bind="Username" />
+            <i class='bx bx-user'></i>
+        </div>
+
+        <h2>Name</h2>
+        <div class="input">
+        <input type="text" placeholder="Name" required @bind="Name" />
+            <i class='bx bx-user'></i>
+        </div>
+
+        <h2>Security Question</h2>
+        <div class="input">
+        <input type="text" placeholder="" required @bind="SecQ" />
+            <i class='bx bx-user'></i>
+        </div>
+
+        <h2>Security Question Answer</h2>
+        <div class="input">
+        <input type="text" placeholder="" required @bind="SecA" />
+            <i class='bx bx-user'></i>
+        </div>
+
+        <h2>enter password</h2>
+        <div class="input">
+        <input type="password" placeholder="Password" required @bind="Password1" />
+            <i class='bx bx-lock'></i>
+        </div>
+        <h2>re-enter password</h2>
+        <div class="input">
+        <input type="password" placeholder="Password" required @bind="Password" />
+            <i class='bx bx-lock'></i>
+        </div>
+
+        <div>@error</div>
+
+    <div>
+        <button @onclick="createAccnt"><b>Create Account</b></button>
+    </div>
+
+
+   
+
+</div>
+
+
+
+@code {
+    private string error = "";
+    private string Username { get; set; }
+    private string Name { get; set; }
+    private string SecQ { get; set; }
+    private string SecA { get; set; }
+    private string Password { get; set; }
+    private string Password1 { get; set; }
+
+
+    private void createAccnt()
+    {
+        if (Username != null && Name != null && SecQ != null && SecA != null && Password != null && Password1 != null)
+        {
+            if (Password1 == Password)
+            {
+                db.CreateAccount(Username, Name, Password, SecQ, SecA);
+                NavigationManager.NavigateTo("/");
+            }
+            else
+            {
+                error = "Passwords do not Match";
+            }
+        }
+
+        else
+        {
+            error = "Please fill out all Fields";
+        }
+
+    }
+}
+
+
+}
+
+
+<style>
+    body {
+        background-color: #F5DAB3;
+    }
+
+</style>

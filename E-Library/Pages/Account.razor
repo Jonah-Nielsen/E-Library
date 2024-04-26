@@ -1,0 +1,46 @@
+﻿@page "/Account"
+
+@inject Data.DB db
+@inject Data.User user
+
+<PageTitle>Account</PageTitle>
+
+<header> <a href="/ChangePassword">Change password</a></header>
+
+<h1>Hi @accountName!</h1>
+<h1>Welcome to your account</h1>
+
+
+@code {
+    private string accountName = "account";
+
+    protected override void OnInitialized()
+    {
+        string temp = db.GetName(user.Email);
+        ChangeText(temp);
+
+    }
+
+    private void ChangeText(string text)
+    {
+        accountName = text;
+    }
+
+
+    
+    
+}
+
+<style>
+    body{
+        background-color: #F5DAB3;
+
+    }
+
+    header{
+        float: right;
+        margin: 10px;
+    }
+
+
+</style>

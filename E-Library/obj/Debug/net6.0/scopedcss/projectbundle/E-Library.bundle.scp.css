@@ -1,0 +1,218 @@
+/* _content/E-Library/Shared/LoginLayout.razor.rz.scp.css */
+{
+    margin:0;
+    padding:0;
+    
+
+}
+.main[b-01bt8x6c58] {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #F5DAB3;
+}
+
+
+
+.top-row[b-01bt8x6c58] {
+    background-color: #912D2D;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-01bt8x6c58]  a, .top-row .btn-link[b-01bt8x6c58] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        color: white;
+        text-decoration-line: none;
+    }
+
+    .top-row a:first-child[b-01bt8x6c58] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-01bt8x6c58] {
+        display: none;
+    }
+
+    .top-row.auth[b-01bt8x6c58] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-01bt8x6c58], .top-row .btn-link[b-01bt8x6c58] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-01bt8x6c58] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-01bt8x6c58] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-01bt8x6c58] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-01bt8x6c58], article[b-01bt8x6c58] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* _content/E-Library/Shared/MainLayout.razor.rz.scp.css */
+.page[b-lehew4gmcj] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-lehew4gmcj] {
+    flex: 1;
+}
+
+.sidebar[b-lehew4gmcj] {
+    background-color: #912D2D;
+}
+
+.top-row[b-lehew4gmcj] {
+    background-color: #912D2D;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-lehew4gmcj]  a, .top-row .btn-link[b-lehew4gmcj] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        color: white;
+        text-decoration-line:none;
+        
+    }
+
+    .top-row a:first-child[b-lehew4gmcj] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-lehew4gmcj] {
+        display: none;
+    }
+
+    .top-row.auth[b-lehew4gmcj] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-lehew4gmcj], .top-row .btn-link[b-lehew4gmcj] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-lehew4gmcj] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-lehew4gmcj] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-lehew4gmcj] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-lehew4gmcj], article[b-lehew4gmcj] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* _content/E-Library/Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-vc5isxfgyw] {
+    background-color: #912D2D;
+}
+
+.top-row[b-vc5isxfgyw] {
+    height: 3.5rem;
+    background-color: #912D2D;
+}
+
+.navbar-brand[b-vc5isxfgyw] {
+    font-size: 1.1rem;
+    background-color: #912D2D;
+}
+
+.oi[b-vc5isxfgyw] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+
+}
+
+.nav-item[b-vc5isxfgyw] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+    background-color: #912D2D;
+}
+
+    .nav-item:first-of-type[b-vc5isxfgyw] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-vc5isxfgyw] {
+        padding-bottom: 1rem;
+        
+    }
+
+    .nav-item[b-vc5isxfgyw]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+        .nav-item[b-vc5isxfgyw]  a.active {
+            background-color: #912D2D;
+            color: white;
+        }
+
+.nav-item[b-vc5isxfgyw]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-vc5isxfgyw] {
+        display: none;
+    }
+
+    .collapse[b-vc5isxfgyw] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

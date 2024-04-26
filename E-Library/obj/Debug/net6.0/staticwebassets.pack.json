@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\E-Library.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Library.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\Taskmaster.png",
+      "PackagePath": "staticwebassets\\images\\Taskmaster.png"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\chem.jpg",
+      "PackagePath": "staticwebassets\\images\\chem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\brisinger.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\brisinger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\chem.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\chem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\dune.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\dune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\eldest.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\eldest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\eragon.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\eragon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\inheritance.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\inheritance.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\law.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\law.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\murtagh.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\murtagh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\jpg\\romanlaw.jpg",
+      "PackagePath": "staticwebassets\\images\\jpg\\romanlaw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\brisinger.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\brisinger.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\chem.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\chem.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\dune.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\dune.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\eldest.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\eldest.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\eragon.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\eragon.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\inheritance.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\inheritance.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\law.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\law.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\murtagh.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\murtagh.pdf"
+    },
+    {
+      "Id": "C:\\Users\\niels\\source\\repos\\E-Library\\wwwroot\\images\\pdf\\romanlaw.pdf",
+      "PackagePath": "staticwebassets\\images\\pdf\\romanlaw.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-Library.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-Library.props",
+      "PackagePath": "build\\E-Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Library.props",
+      "PackagePath": "buildMultiTargeting\\E-Library.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-Library.props",
+      "PackagePath": "buildTransitive\\E-Library.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

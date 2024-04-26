@@ -1,0 +1,44 @@
+﻿@page "/Read"
+@inject Data.ReadBook book
+
+<PageTitle>Read</PageTitle>
+
+
+<body>
+    
+
+    <div class="image">
+        <embed src="images/pdf/@path" alt="Test Image" width="90%" height="90%" />
+    </div>
+</body>
+
+@code {
+
+    private string path = "NUll";
+
+    protected override void OnInitialized()
+    {
+        ChangePath(book.book);
+    }
+
+    private void ChangePath(string text)
+    {
+        path = text;
+    }
+
+
+
+}
+
+<style>
+    body {
+        background-color: #F5DAB3;
+    }
+
+    .image{
+        height: 100vh;
+        width:auto;
+
+    }
+
+</style>
